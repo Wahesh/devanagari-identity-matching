@@ -1,0 +1,3 @@
+﻿system,precision,recall,f1,false_link_rate
+"Splink (weight>0, tuned)",0.814 ± 0.013,0.776 ± 0.012,0.794 ± 0.012,0.425 ± 0.020
+"Supervised GBM (p>0.1, tuned)",0.978 ± 0.007,0.944 ± 0.008,0.961 ± 0.007,0.063 ± 0.008

@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+synth_data/
+real_results/
+.venv/
+.idea/
+.vscode/
