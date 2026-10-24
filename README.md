@@ -32,6 +32,8 @@ and the results reported in the accompanying article.
 
 ## Quick start
 ```bash
+git clone https://github.com/Wahesh/devanagari-identity-matching.git
+cd devanagari-identity-matching
 pip install -r requirements.txt
 python synth.py --out synth_data --seed 1          # write one synthetic dataset (A.csv, B.csv, gold.csv)
 python evaluate.py --seeds 5 --n-true 600          # baselines + ablations  -> results/
@@ -80,5 +82,5 @@ part of this repository.
 The code in this repository was written with the assistance of Claude (Anthropic) and reviewed by the author.
 
 ## Citation and license
-Author: Mahesh Dahal (ORCID [0000-0002-8238-8082](https://orcid.org/0000-0002-8238-8082)). Citation details will be
-added when the article is published. Released under the MIT License (see `LICENSE`).
+Author: Mahesh Dahal (ORCID [0000-0002-8238-8082](https://orcid.org/0000-0002-8238-8082)). Cite the software with `CITATION.cff` (GitHub's
+"Cite this repository" button); the article reference and a DOI will be added when available. Released under the MIT License (see `LICENSE`).

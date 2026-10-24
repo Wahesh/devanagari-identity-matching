@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Rule-based record linkage for Nepali names and addresses"
+type: software
+authors:
+  - family-names: Dahal
+    given-names: Mahesh
+    orcid: "https://orcid.org/0000-0002-8238-8082"
+repository-code: "https://github.com/Wahesh/devanagari-identity-matching"
+license: MIT
+keywords:
+  - record linkage
+  - entity resolution
+  - Devanagari
+  - Nepali
