@@ -8,6 +8,9 @@ authors:
     orcid: "https://orcid.org/0000-0002-8238-8082"
 repository-code: "https://github.com/Wahesh/devanagari-identity-matching"
 license: MIT
+version: "1.0.0"
+doi: "10.5281/zenodo.23622058"
+date-released: "2026-10-24"
 keywords:
   - record linkage
   - entity resolution

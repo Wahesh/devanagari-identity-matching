@@ -1,5 +1,7 @@
 # Rule-based record linkage for Nepali names and addresses
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23622058.svg)](https://doi.org/10.5281/zenodo.23622058)
+
 A transparent, rule-based method for linking records of the same person across two files that share **no unique
 identifier**, when names and addresses are free text in Devanagari, spelled inconsistently, and addresses follow
 Nepal's administrative hierarchy (district, local level, ward). Every score comes with a stated reason. No training
@@ -83,4 +85,6 @@ The code in this repository was written with the assistance of Claude (Anthropic
 
 ## Citation and license
 Author: Mahesh Dahal (ORCID [0000-0002-8238-8082](https://orcid.org/0000-0002-8238-8082)). Cite the software with `CITATION.cff` (GitHub's
-"Cite this repository" button); the article reference and a DOI will be added when available. Released under the MIT License (see `LICENSE`).
+"Cite this repository" button) or as: Dahal, M. (2026). *Rule-based record linkage for Nepali names and addresses*
+(Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23622058. The article reference will be added
+when available. Released under the MIT License (see `LICENSE`).
